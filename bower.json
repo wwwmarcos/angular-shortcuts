@@ -1,0 +1,24 @@
+{
+  "name": "angular-shortcuts",
+  "main": "angular-shortcuts.js",
+  "homepage": "https://github.com/marcosflorencio/angular-shortcuts",
+  "authors": [
+    "marcos.florencio <marcoseptacio@gmail.com>"
+  ],
+  "description": "Angular module for configure shortcuts in your app",
+  "keywords": [
+    "shortchuts",
+    "angular",
+    "angular-shortchuts",
+    "hotkeys",
+    "angular-hotkeys"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

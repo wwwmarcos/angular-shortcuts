@@ -2,10 +2,10 @@
   'use strict';
 
   angular
-  .module('AngularShortCuts', [])
-  .provider('$angularShortCuts', $angularShortCuts);
+  .module('shortCuts', [])
+  .provider('$shortCuts', $shortCuts);
 
-  function $angularShortCuts(){
+  function $shortCuts(){
     var provider = {
       $get : $get,
       shortCut : shortCut
