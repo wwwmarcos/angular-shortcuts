@@ -1,7 +1,7 @@
 {
   "name": "angular-shortcuts",
   "main": "angular-shortcuts.js",
-  "version": "0.0.33,
+  "version": "0.0.3",
   "homepage": "https://github.com/marcosflorencio/angular-shortcuts",
   "authors": [
     "marcos.florencio <marcoseptacio@gmail.com>"
