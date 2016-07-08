@@ -1,4 +1,8 @@
 
+## [0.0.4] - 2015-07-08
+### Added
+- Add ctrl key in the the map of keys
+
 ## [0.0.3] - 2015-07-08
 ### Added
 - Validations on create the shortcut object and add news exceptions

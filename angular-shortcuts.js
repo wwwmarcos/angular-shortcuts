@@ -12,6 +12,7 @@
       showLog : showLog
     }
     , _keyCodes = {
+      'ctrl' : 17,
       'a' : 65,
       'b' : 66,
       'c' : 67,
