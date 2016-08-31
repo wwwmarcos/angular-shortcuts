@@ -1,0 +1,24 @@
+{
+  "name": "angular-shortcuts",
+  "version": "0.0.4",
+  "description": "Angular module for configure shortcuts in your app",
+  "main": "angular-shortcuts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosflorencio/angular-shortcuts.git"
+  },
+  "keywords": [
+    "shortcuts",
+    "angular",
+    "hotkeys"
+  ],
+  "author": "marcosflorencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosflorencio/angular-shortcuts/issues"
+  },
+  "homepage": "https://github.com/marcosflorencio/angular-shortcuts#readme"
+}
